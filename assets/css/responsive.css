@@ -1,0 +1,324 @@
+@media screen and (min-width:576px) and (max-width:767.98px) {
+    /* #lp-about .lp-about-cards .lp-card-item {
+        height: 390px;
+        margin-bottom: 30px;
+    } */
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+    .accordion-body .c-info-wrapper .c-info .col-md-2 {
+        width: 9.6666666667%;
+    }
+    .accordion-body .c-info-wrapper .c-info .col-md-10 {
+        width: 90.3333333333%;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+    .accordion-body .c-info-wrapper .c-info .col-lg-2 {
+        width: 9.6666666667%;
+    }
+    .accordion-body .c-info-wrapper .c-info .col-lg-10 {
+        width: 90.3333333333%;
+    }
+    #wi-invisalign #pills-tab button {
+        padding: 8px 18px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1399.98px) {
+    #sv-treatments .treatment-item-wrapper {
+        height: 380px;
+    }
+    .accordion-body .c-info-wrapper .c-info .col-xl-2 {
+        width: 9.6666666667%;
+    }
+    .accordion-body .c-info-wrapper .c-info .col-xl-10 {
+        width: 90.3333333333%;
+    }
+    #wi-invisalign #pills-tab button {
+        padding: 10px 20px;
+    }
+    #st-videos .st-videos-wrapper h5 {
+        font-size: 1.13rem;
+    }
+    #st-videos .st-videos-wrapper p {
+        font-weight: 400;
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    html {
+        font-size: 16px !important;
+    }
+    .dt-slider-item .dt-img img {
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    html {
+        font-size: 14px !important;
+    }
+    #sv-treatments .treatment-item-wrapper {
+        height: 300px;
+    }
+    .treatment-item-wrapper .treat-item-hover-effect {
+        padding: 25px;
+    }
+    .banner-actions a {
+        padding: 0.9rem 2.6rem 0.9rem 4.5rem;
+    }
+    .fixed-si-wrapper .cu h5 {
+        right: -55%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    html {
+        font-size: 13px !important;
+    }
+    #lp-about .lp-about-cards .lp-card-item {
+        height: 364px;
+    }
+    #lp-about {
+        padding-bottom: 2rem;
+    }
+    #lp-about .lp-about-cards {
+        margin-top: 50px;
+    }
+    #sv-implementation .sv-implementation-banner .logo img {
+        height: 70px;
+        margin-bottom: 20px;
+    }
+    #sv-treatments .treatement-wrapper {
+        margin-top: 30px;
+    }
+    #instagram-posts h4.bordered-heading {
+        margin-bottom: 30px;
+    }
+    .footer-social-icons ul {
+        display: flex;
+        margin: 10px 0px 0px 0px;
+        text-align: center;
+    }
+    .banner-wrapper {
+        min-height: 450px;
+    }
+    /*#region*******************************************************WORK WITH US*************************************************************************/
+    .rp-result {
+        height: 1150px;
+    }
+    .slider-item-style .chart-box {
+        margin-top: 40px;
+    }
+    /*#endregion*******************************************************WORK WITH US*************************************************************************/
+    #wi-invisalign #pills-tab button {
+        padding: 9px 15px;
+    }
+    .fixed-si-wrapper .cu h5 {
+        right: -45%;
+    }
+}
+
+@media (max-width: 767.98px) {
+    html {
+        font-size: 12px !important;
+    }
+    /*#region*******************************************************IndexPage*************************************************************************/
+    #lp-about .lp-about-cards .lp-card-item {
+        height: 390px;
+        margin-bottom: 30px;
+    }
+    #sv-implementation .sv-implementation-banner {
+        min-height: 250px;
+    }
+    .treatment-video-wrapper .video-overlay {
+        padding: 3rem 0rem 1.5rem 0rem;
+    }
+    .treatment-video-wrapper .video-overlay h4.bordered-heading {
+        margin-bottom: 30px;
+    }
+    .treatment-video-wrapper {
+        height: auto;
+        position: static;
+        overflow: visible;
+    }
+    .treatment-video-wrapper .video-overlay {
+        position: static;
+    }
+    .treatment-video-wrapper iframe {
+        display: none;
+    }
+    #instagram-posts .insta-post-parent {
+        height: 250px;
+    }
+    #work-with-us .about-dr {
+        margin-top: 30px;
+    }
+    .brand-partners {
+        margin-top: 30px;
+    }
+    .brand-partners .brand-logo {
+        margin: 0px 15px 0px 15px;
+        height: 70px;
+    }
+    .brand-partners .brand-logo img {
+        height: 70px;
+    }
+    .footer-nav-links ul {
+        text-align: center;
+    }
+    .banner-wrapper {
+        min-height: 350px;
+    }
+    .banner-inner img {
+        height: 80px;
+        margin-bottom: 30px;
+    }
+    .banner-actions a {
+        padding: 0.9rem 2.6rem 0.9rem 2.5rem;
+    }
+    .fixed-si-wrapper .cu h5 {
+        right: -38%;
+    }
+    /*#endregion*******************************************************IndexPage*************************************************************************/
+    /*#region*******************************************************ABOUT US*************************************************************************/
+    #about-us .who-are-we-wrapper .who-are-we img {
+        height: 50px;
+        width: 50px;
+    }
+    #about-us .who-are-we-wrapper {
+        margin-top: 30px;
+    }
+    .wc-wrapper {
+        margin-top: 25px;
+    }
+    /*#endregion*******************************************************ABOUT US*************************************************************************/
+    /*#region*******************************************************WORK WITH US*************************************************************************/
+    .www-sv-inner {
+        margin-top: 20px;
+    }
+    .www-sv-inner img {
+        height: 70px;
+    }
+    /*#endregion*******************************************************WORK WITH US*************************************************************************/
+    #st-sv p {
+        margin: 10px 0px;
+    }
+    #st-videos .st-videos-wrapper video {
+        width: 180px;
+        height: 120px;
+    }
+    #wc-sv .v-overlay-left h6 {
+        margin-top: 8px;
+        margin-bottom: 0px;
+    }
+    #wc-sv .v-overlay-left p {
+        margin-top: 10px;
+    }
+    #st-videos .bordered-heading span::after {
+        position: static;
+        border-bottom: none;
+    }
+}
+
+@media (max-width: 575.98px) {
+    html {
+        font-size: 11px !important;
+    }
+    /*#region*******************************************************IndexPage*************************************************************************/
+    .v-overlay-left .row>.col-12 {
+        display: flex;
+        justify-content: center;
+    }
+    .v-overlay-left h6 {
+        text-align: center;
+    }
+    .v-overlay-left p {
+        text-align: center;
+    }
+    .banner-inner img {
+        height: 50px;
+        margin-bottom: 30px;
+    }
+    .banner-wrapper {
+        min-height: 250px;
+        padding-bottom: 20px;
+    }
+    .treatment-item-wrapper .treat-item-hover-effect {
+        padding: 25px;
+    }
+    #lp-about .lp-about-cards .lp-card-item {
+        height: 250px;
+        margin-bottom: 30px;
+    }
+    #lp-about .lp-card-item .lp-c-item-top {
+        height: 70%;
+        overflow: hidden;
+    }
+    #lp-about .lp-card-item .lp-c-item-bottom {
+        height: 30%;
+        padding-bottom: 0;
+    }
+    #sv-implementation .sv-implementation-banner .logo img {
+        height: 50px;
+        margin-bottom: 20px;
+    }
+    .footer-nav-links ul {
+        text-align: left;
+    }
+    .footer-nav-links {
+        margin: 20px 0px;
+    }
+    /*#endregion*******************************************************IndexPage*************************************************************************/
+    /*#region*******************************************************ABOUT US*************************************************************************/
+    #about-us .who-are-we-wrapper .who-are-we img {
+        height: 50px;
+    }
+    #about-us .who-are-we-wrapper .who-are-we .hover-details {
+        height: 100px;
+    }
+    #about-us .who-are-we-wrapper .who-are-we .hover-details h5 {
+        margin-bottom: 10px;
+    }
+    #about-us .who-are-we-wrapper .who-are-we .hover-details p {
+        text-align: center;
+    }
+    #about-us .who-are-we-wrapper .who-are-we {
+        width: 100%;
+        height: 100px;
+    }
+    #about-us .who-are-we-wrapper {
+        flex-direction: column;
+    }
+    /*#endregion*******************************************************ABOUT US*************************************************************************/
+    /*#region*******************************************************WORK WITH US*************************************************************************/
+    .rp-slider-item i {
+        color: var(--clr-white);
+        font-size: 0.9rem;
+        padding: 15px 0px;
+        display: block;
+    }
+    #tl-details h5 {
+        margin-top: 20px;
+        padding-bottom: 20px;
+    }
+    /*#endregion*******************************************************WORK WITH US*************************************************************************/
+    .dt-slider-item {
+        margin-right: 0px;
+    }
+    .fixed-si-wrapper {
+        width: 37px;
+    }
+    .fixed-si-wrapper .cu h5 {
+        right: -80%;
+    }
+    .fixed-si-wrapper .cu .cu-form {
+        height: 364px;
+        width: 250px;
+    }
+}
+
+@media (min-width: 1399.98px) {}

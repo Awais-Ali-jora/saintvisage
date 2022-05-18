@@ -1,0 +1,327 @@
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://example.com/MaterialIcons-Regular.eot);
+    /* For IE6-8 */
+    /* src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'), url(https://example.com/MaterialIcons-Regular.woff) format('woff'), url(https://example.com/MaterialIcons-Regular.ttf) format('truetype'); */
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+}
+
+.fos7 {
+    font-size: 7px !important;
+}
+
+.fos8 {
+    font-size: 8px !important;
+}
+
+.fos9 {
+    font-size: 9px !important;
+}
+
+.fos10 {
+    font-size: 10px !important;
+}
+
+.fos11 {
+    font-size: 11px !important;
+}
+
+.fos12 {
+    font-size: 12px !important;
+}
+
+.fos13 {
+    font-size: 13px !important;
+}
+
+.fos14 {
+    font-size: 14px !important;
+}
+
+.fos15 {
+    font-size: 15px !important;
+}
+
+.fos16 {
+    font-size: 16px !important;
+}
+
+.fos17 {
+    font-size: 17px !important;
+}
+
+.fos18 {
+    font-size: 18px !important;
+}
+
+.fos19 {
+    font-size: 19px !important;
+}
+
+.fos20 {
+    font-size: 20px !important;
+}
+
+.fos21 {
+    font-size: 21px !important;
+}
+
+.fos22 {
+    font-size: 22px !important;
+}
+
+.fos23 {
+    font-size: 23px !important;
+}
+
+.fos24 {
+    font-size: 24px !important;
+}
+
+.fos25 {
+    font-size: 25px !important;
+}
+
+.fos26 {
+    font-size: 26px !important;
+}
+
+.fos27 {
+    font-size: 27px !important;
+}
+
+.fos28 {
+    font-size: 28px !important;
+}
+
+.fos29 {
+    font-size: 29px !important;
+}
+
+.fos30 {
+    font-size: 30px !important;
+}
+
+.fos31 {
+    font-size: 31px !important;
+}
+
+.fos32 {
+    font-size: 32px !important;
+}
+
+.fos33 {
+    font-size: 33px !important;
+}
+
+.fos34 {
+    font-size: 34px !important;
+}
+
+.fos35 {
+    font-size: 35px !important;
+}
+
+.fos36 {
+    font-size: 36px !important;
+}
+
+.fos37 {
+    font-size: 37px !important;
+}
+
+.fos38 {
+    font-size: 38px !important;
+}
+
+.fos39 {
+    font-size: 39px !important;
+}
+
+.fos40 {
+    font-size: 40px !important;
+}
+
+.m-tb1 {
+    margin: 1px 0px !important;
+}
+
+.m-tb2 {
+    margin: 2px 0px !important;
+}
+
+.m-tb3 {
+    margin: 3px 0px !important;
+}
+
+.m-tb4 {
+    margin: 4px 0px !important;
+}
+
+.m-tb5 {
+    margin: 5px 0px !important;
+}
+
+.m-tb6 {
+    margin: 6px 0px !important;
+}
+
+.m-tb7 {
+    margin: 7px 0px !important;
+}
+
+.m-tb8 {
+    margin: 8px 0px !important;
+}
+
+.m-tb9 {
+    margin: 9px 0px !important;
+}
+
+.m-tb10 {
+    margin: 10px 0px !important;
+}
+
+.m-tb11 {
+    margin: 11px 0px !important;
+}
+
+.m-tb12 {
+    margin: 12px 0px !important;
+}
+
+.m-tb13 {
+    margin: 13px 0px !important;
+}
+
+.m-tb14 {
+    margin: 14px 0px !important;
+}
+
+.m-tb15 {
+    margin: 15px 0px !important;
+}
+
+.m-tb16 {
+    margin: 16px 0px !important;
+}
+
+.m-tb17 {
+    margin: 17px 0px !important;
+}
+
+.m-tb18 {
+    margin: 18px 0px !important;
+}
+
+.m-tb19 {
+    margin: 19px 0px !important;
+}
+
+.m-tb20 {
+    margin: 20px 0px !important;
+}
+
+.m-tb21 {
+    margin: 21px 0px !important;
+}
+
+.m-tb22 {
+    margin: 22px 0px !important;
+}
+
+.m-tb23 {
+    margin: 23px 0px !important;
+}
+
+.m-tb24 {
+    margin: 24px 0px !important;
+}
+
+.m-tb25 {
+    margin: 25px 0px !important;
+}
+
+.m-tb26 {
+    margin: 26px 0px !important;
+}
+
+.m-tb27 {
+    margin: 27px 0px !important;
+}
+
+.m-tb28 {
+    margin: 28px 0px !important;
+}
+
+.m-tb29 {
+    margin: 29px 0px !important;
+}
+
+.m-tb30 {
+    margin: 30px 0px !important;
+}
+
+.m-tb31 {
+    margin: 31px 0px !important;
+}
+
+.m-tb32 {
+    margin: 32px 0px !important;
+}
+
+.m-tb33 {
+    margin: 33px 0px !important;
+}
+
+.m-tb34 {
+    margin: 34px 0px !important;
+}
+
+.m-tb35 {
+    margin: 35px 0px !important;
+}
+
+.m-tb36 {
+    margin: 36px 0px !important;
+}
+
+.m-tb37 {
+    margin: 37px 0px !important;
+}
+
+.m-tb38 {
+    margin: 38px 0px !important;
+}
+
+.m-tb39 {
+    margin: 39px 0px !important;
+}
+
+.m-tb40 {
+    margin: 40px 0px !important;
+}
